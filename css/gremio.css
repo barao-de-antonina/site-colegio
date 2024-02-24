@@ -1,0 +1,223 @@
+.titulo {
+    padding: 30px;
+    text-align: center;
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.subtitulo {
+    padding: 20px;
+    text-align: center;
+}
+
+.p1 {
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.lista1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    margin: auto;
+}
+
+.nicoly {
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-nicoly {
+    text-align: center;
+}
+
+.edu {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.n-edu {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.luis {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-luis {
+    text-align: center;
+}
+
+.joao {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.n-joao {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.fabi {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-fabi {
+    text-align: center;
+}
+
+.izadora {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.n-izadora {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.maria {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.n-maria {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.marieli {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-marieli {
+    text-align: center;
+}
+
+.ana {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-ana {
+    text-align: center;
+}
+
+.henrique {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.n-henrique {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.denise {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.n-denise {
+    text-align: center;
+}
+
+.manoela {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.n-manoela {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.henrique-d {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.n-henrique-d {
+    text-align: center;
+}
+
+.logo-insta {
+    width: 50px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.cargos {
+    text-transform: none;
+}
+
+h4 {
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.titulo {
+    text-align: center;
+    padding: 20px;
+}
+
+.subtitulo {
+    margin-left: 20px;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+iframe {
+    display: flex;
+    margin: auto;
+    border: black solid 1px;
+    margin-top: 15px;
+}

@@ -1,0 +1,47 @@
+h1 {
+    padding: 20px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+}
+
+.logo-whats {
+    width: 50px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.logo-insta {
+    width: 50px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.logo-face {
+    width: 50px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.horarios {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.localizacao {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.mapa {
+    display: flex;
+    margin: auto;
+    border: black solid 1px;
+}
